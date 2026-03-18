@@ -2,13 +2,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX-Design-FF69B4?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fullstack-Developer-FF69B4?style=flat-square" />
   <img src="https://img.shields.io/badge/Clean%20Code-Enthusiast-8A2BE2?style=flat-square" />
 </p>
 
 <p align="center">
   <b>Ingeniera en Ciencias de la Computación</b><br/>
-  Construyendo interfaces modernas, funcionales y con impacto social ✨
+  Desarrolladora <b>Fullstack</b> enfocada en crear experiencias modernas, escalables y con impacto social ✨
 </p>
 
 <p align="center">
@@ -21,18 +22,18 @@
 
 ## 🌸 Sobre mí
 
-- 💻 Desarrolladora Frontend especializada en **React**
-- 🔗 Experiencia consumiendo APIs y conectando frontend–backend
-- 🧠 Enfocada en **arquitectura escalable y clean code**
+- 💻 Desarrolladora **Fullstack** con especialidad en frontend (**React**)
+- 🔗 Experiencia construyendo e integrando APIs (**.NET, Node.js**)
+- 🧠 Enfocada en **arquitectura escalable, clean code y performance**
 - 💜 Interesada en proyectos con impacto social
-- 🚀 Actualmente aprendiendo **performance en React y patrones avanzados**
+- 🚀 Experiencia en desarrollo end-to-end: UI, lógica de negocio y consumo de datos
 
 ---
 
 ## 🌸 Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,typescript,angular,html,css,tailwind,cs,postgres,git,postman,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,js,typescript,angular,html,css,tailwind,nodejs,cs,postgres,git,postman,vscode&theme=light" />
 </p>
 
 ---
@@ -49,11 +50,12 @@
 
 **Stack:** React · Tailwind · .NET Core · PostgreSQL  
 
-Plataforma cívica con interacción a gran escala.
+Plataforma cívica desarrollada bajo enfoque **fullstack**.
 
+✨ Desarrollo de interfaces y lógica de negocio  
 ✨ Dashboards por roles  
-✨ Componentes reutilizables  
-✨ Optimización (lazy loading + code splitting)
+✨ Optimización (lazy loading + code splitting)  
+✨ Integración frontend–backend  
 
 🔗 <a href="https://public.ciudadanosenmovimiento.org/">Ver proyecto</a>
 
@@ -66,11 +68,12 @@ Plataforma cívica con interacción a gran escala.
 
 **Stack:** React · Node · PostgreSQL · AI  
 
-Plataforma social para apoyo a mujeres.
+Plataforma social con enfoque en impacto real.
 
-✨ Violentómetro interactivo  
-✨ Geolocalización de ayuda  
-✨ UX accesible  
+✨ Integración de servicios y APIs  
+✨ Geolocalización de centros de ayuda  
+✨ Diseño accesible centrado en el usuario  
+✨ Lógica para herramientas interactivas  
 
 🔗 <a href="https://www.caminemosjuntas.com/">Ver proyecto</a>  
 💻 <a href="https://github.com/ceciliabh/caminemos-juntas">Código</a>
@@ -87,9 +90,10 @@ Plataforma social para apoyo a mujeres.
 
 **Stack:** Next.js · TypeScript · SSR · SEO  
 
-✨ Rutas dinámicas  
-✨ Carrito global  
-✨ Optimización SEO  
+✨ Arquitectura escalable  
+✨ Manejo global de estado  
+✨ Optimización SEO (SSR/SSG)  
+✨ Preparado para integración backend  
 
 🔗 <a href="https://nextjs-ecommerce-lac-pi.vercel.app/">Ver proyecto</a>  
 💻 <a href="https://github.com/ceciliabh/nextjs-ecommerce">Código</a>
@@ -103,8 +107,9 @@ Plataforma social para apoyo a mujeres.
 
 **Stack:** AI · NLP · Chatbot  
 
-✨ Flujo conversacional  
-✨ Asistente de hábitos saludables  
+✨ Diseño de lógica conversacional  
+✨ Procesamiento de lenguaje natural  
+✨ Arquitectura de interacción  
 ✨ Documentación técnica  
 
 </td>
@@ -132,9 +137,9 @@ Plataforma social para apoyo a mujeres.
 
 ## 🌸 Actualmente
 
-🚀 Arquitectura frontend  
+🚀 Desarrollo fullstack  
 ⚡ Performance en React  
-🧩 Buenas prácticas y escalabilidad  
+🧩 Arquitectura y buenas prácticas  
 
 ---
 
@@ -146,6 +151,6 @@ Plataforma social para apoyo a mujeres.
 ---
 
 <p align="center">
-  <i>"Transformando líneas de código en soluciones reales."</i><br/>
+  <i>"Transformando ideas en soluciones digitales completas."</i><br/>
   ✨ <b>Cecilia Barranco</b> • 2026 ✨
 </p>
