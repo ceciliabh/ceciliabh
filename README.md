@@ -45,7 +45,7 @@
 
 ### 🧡 Movimiento Ciudadano
 
-<img src="https://raw.githubusercontent.com/ceciliabh/main/assets/mc.png"/>
+<img src="https://raw.githubusercontent.com/ceciliabh/mc.png"/>
 
 **Stack:** React · Tailwind · .NET Core · PostgreSQL  
 
@@ -62,7 +62,7 @@ Plataforma cívica con interacción a gran escala.
 
 ### 💜 Caminemos Juntas
 
-<img src="https://raw.githubusercontent.com/ceciliabh/main/assets/caminemosjuntas.png"/>
+<img src="https://raw.githubusercontent.com/ceciliabh/caminemosjuntas.png"/>
 
 **Stack:** React · Node · PostgreSQL · AI  
 
@@ -83,7 +83,7 @@ Plataforma social para apoyo a mujeres.
 
 ### 🛒 E-commerce
 
-<img src="https://raw.githubusercontent.com/ceciliabh/main/assets/ecommerce.png"/>
+<img src="https://raw.githubusercontent.com/ceciliabh/ecommerce.png"/>
 
 **Stack:** Next.js · TypeScript · SSR · SEO  
 
@@ -99,7 +99,7 @@ Plataforma social para apoyo a mujeres.
 
 ### 🤖 Salubot IA
 
-<img src="https://raw.githubusercontent.com/ceciliabh/main/assets/three.svg"/>
+<img src="https://raw.githubusercontent.com/ceciliabh/salubot.avif"/>
 
 **Stack:** AI · NLP · Chatbot  
 
