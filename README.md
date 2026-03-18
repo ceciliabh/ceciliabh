@@ -45,7 +45,7 @@
 
 ### 🧡 Movimiento Ciudadano
 
-<img src="https://raw.githubusercontent.com/ceciliabh/mc.png"/>
+<img src="https://raw.githubusercontent.com/ceciliabh/main/mc.png"/>
 
 **Stack:** React · Tailwind · .NET Core · PostgreSQL  
 
