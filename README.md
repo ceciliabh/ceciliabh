@@ -51,9 +51,9 @@
 
 Plataforma cívica con interacción a gran escala.
 
-✔ Dashboards por roles  
-✔ Componentes reutilizables  
-✔ Optimización (lazy loading + code splitting)
+✨ Dashboards por roles  
+✨ Componentes reutilizables  
+✨ Optimización (lazy loading + code splitting)
 
 🔗 <a href="https://public.ciudadanosenmovimiento.org/">Ver proyecto</a>
 
@@ -68,9 +68,9 @@ Plataforma cívica con interacción a gran escala.
 
 Plataforma social para apoyo a mujeres.
 
-✔ Violentómetro interactivo  
-✔ Geolocalización de ayuda  
-✔ UX accesible  
+✨ Violentómetro interactivo  
+✨ Geolocalización de ayuda  
+✨ UX accesible  
 
 🔗 <a href="https://www.caminemosjuntas.com/">Ver proyecto</a>  
 💻 <a href="https://github.com/ceciliabh/caminemos-juntas">Código</a>
@@ -87,9 +87,9 @@ Plataforma social para apoyo a mujeres.
 
 **Stack:** Next.js · TypeScript · SSR · SEO  
 
-✔ Rutas dinámicas  
-✔ Carrito global  
-✔ Optimización SEO  
+✨ Rutas dinámicas  
+✨ Carrito global  
+✨ Optimización SEO  
 
 🔗 <a href="https://nextjs-ecommerce-lac-pi.vercel.app/">Ver proyecto</a>  
 💻 <a href="https://github.com/ceciliabh/nextjs-ecommerce">Código</a>
@@ -103,9 +103,9 @@ Plataforma social para apoyo a mujeres.
 
 **Stack:** AI · NLP · Chatbot  
 
-✔ Flujo conversacional  
-✔ Asistente de hábitos saludables  
-✔ Documentación técnica  
+✨ Flujo conversacional  
+✨ Asistente de hábitos saludables  
+✨ Documentación técnica  
 
 </td>
 </tr>
